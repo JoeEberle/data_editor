@@ -1,0 +1,14 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-10-10 20:21:47,831 - INFO - START data_editor =============================================
+2025-10-10 20:21:47,832 - INFO - START data_editor Start Time = 2025-10-10 20:21:47
+2025-10-10 20:21:47,832 - INFO - data_editor Step 0 - Initialize the configuration file parser
+2025-10-10 20:21:47,832 - INFO - Process data_editor Step 0 - Initializing and starting Logging Process.
+2025-10-10 20:21:48,023 - INFO - PERFORMANCE data_editor The total process duration was:0.19
+2025-10-10 20:21:48,025 - INFO - PERFORMANCE data_editor Stop Time = 2025-10-10 20:21:48
+2025-10-10 20:21:48,025 - INFO - PERFORMANCE data_editor Short process duration less than 3 Seconds:0.19
+2025-10-10 20:21:48,026 - INFO - PERFORMANCE data_editor Performance optimization is not reccomended
+2025-10-10 20:21:48,026 - INFO - END data_editor =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
