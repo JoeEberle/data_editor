@@ -4,11 +4,7 @@
 
 ## Streamlit app for editing and persisting changes to data
 
-    
-![Solution](code.png)
-
-    
-
+    ![Image image_filename](code.png)
 
 # 🧠 Data Editor  
 
@@ -79,7 +75,7 @@ Streamlit application for **editing and persisting changes to data** in a browse
 ![Image](data_editor_ui.png)
 
 
-Welcome to the solution **Data Editor** - an example for your projects
+Welcome to the solution **Data Editor** 
 
 Streamlit app for editing and persisting changes to data
 
@@ -154,13 +150,7 @@ Streamlit application for **editing and persisting changes to data** in a browse
 ![Image](data_editor_ui.png)
 
 <br>
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
